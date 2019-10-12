@@ -6,6 +6,6 @@ The players will use a basket to catch the balls that fall from above, when they
 
 Nine holes are arrayed evenly on the canvas, a square will come up randomly from each of these holes. The players will use a hammer to hit(click) on the square to make it disappear. When the square is hit, there will be a sound effect.
 
-3.rolling ball
+3.Rolling ball
 
 A ball will be rolling randomly in x direction on the ground. The whole screen is filled with rain except for the area under the umbrella. The players will use their mouse to move the umbrella to keep the ball from the rain. There will be a raining sound effect, and when players fail to protect the ball, there will be a crying sound effect.
